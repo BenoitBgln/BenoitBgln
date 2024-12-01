@@ -58,4 +58,4 @@ Feel free to reach out if you'd like to collaborate or have any questions!
 
 - Email: [benoit.baguelin@ensea.fr](mailto:benoit.baguelin@ensea.fr)
 - LinkedIn: [/in/benoit-baguelin](https://www.linkedin.com/in/benoit-baguelin/)
-- Curriculum vitæ : [CV.pdf](./CV STAGE 2025 FR.pdf)
+- Curriculum vitæ : [CV.pdf](./CV%20STAGE%202025%20FR.pdf)
