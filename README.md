@@ -8,7 +8,7 @@ I’m currently a Master's student at [ENSEA](https://www.ensea.fr/), a French g
 | **General** | **Back-end** | **Front-end** | **Hardware/Low-level** | **Others** |
 | --- | --- | --- | --- | --- |
 | Python, Java, OCaml | Node.js, PHP | HTML, CSS, JavaScript | C, VHDL, Assembly | Bash, Matlab |
-| ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,ocaml) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,php) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,vhdl,javascript) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,matlab) |
+| ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,ocaml&titles=true) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,php) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,vhdl,javascript) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,matlab) |
 
 ---
 
