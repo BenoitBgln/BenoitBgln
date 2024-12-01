@@ -1,30 +1,61 @@
 ## Hi there, I'm Benoît Baguelin 👋
 
-I'm an engineering student at ENSEA, passionate about software development, embedded systems, and cybersecurity. With a strong foundation in both low-level hardware design and high-level web development, I thrive at the intersection of technology and creativity.
-
-I have experience building diverse projects, ranging from online multiplayer games to embedded systems for industrial applications. Cybersecurity is a particular area of interest for me, and I am always excited to learn new technologies and tackle complex challenges.
+I’m currently a Master's student at [ENSEA](https://www.ensea.fr/), a French graduate school of electrical engineering and computer science. Passionate about software development, embedded systems, and cybersecurity, I have a keen interest in all aspects, from low-level hardware design to high-level development.
 
 ### **My Skills** 🚀
 
-- **Programming Languages**: HTML, CSS, JavaScript, Python, Java, OCaml, C, Assembly, VHDL
-- **Web Development**: Node.js, Express.js, Next.js, React.js, React Native, Bootstrap, Sass, Three.js
-- **Databases**: MySQL, MariaDB, SQLite, MongoDB, Firebase, Neo4J, Redis
-- **Embedded Systems**: Arduino, STM32, Raspberry Pi, Vivado, Quartus
-- **Cybersecurity**: Security protocols, encryption, secure coding practices, vulnerability analysis
-- **Security & Authentication**: Auth.js, Passport.js, session management, encryption protocols
-- **Game Development**: Online multiplayer games, real-time communication, live chat, account creation
+### **Langages de programmation :**
+- **Généraliste** : Python, Java, OCaml
+- **Back-end** : Node.js, PHP
+- **Front-end/Web** : HTML, CSS, JavaScript
+- **Hardware/Low-level** : C, VHDL, Assembly
+- **Autres** : Bash, Matlab
+
+---
+
+### **Frameworks et bibliothèques :**
+- **Front-end** :
+    - React.js, React Native, Expo, JQuery
+    - Sass, Bootstrap, Three.js, GSAP (GreenSock)
+- **Back-end** :
+    - Next.js, Express.js, Auth.js, Passport.js, Flask
+
+---
+
+### **Bases de données :**
+- **SQL** : MySQL, MariaDB, SQLite
+- **NoSQL** : MongoDB, Redis, Firebase , Neo4J
+
+---
+
+### **Simulation et Conception Électronique** :
+- Vivado, OrCAD, PSpice
+
+---
+
+### **Environnements de développement :**
+- Plateformes embarquées :
+    - Arduino
+    - STM32
+    - Raspberry Pi
+- Environnement Linux
+    - Debian, Ubuntu, Kali Linux
 
 ### **My Projects** 💻
 
-- [**Sabotime**](https://sabotime.com): An online multiplayer game inspired by Time Bomb. I developed both the frontend and backend, with features like 3D graphics, live chat, and account management. The game had around 500 unique users and was live for a month.
-- [**Rando Audio**](https://rando-audio.fr/): An interactive audio adventure project, developed as a graduation project. I worked on the backend and designed the interactive elements that allow the listener to make choices and shape their adventure.
-- [**Student Union Website**](https://bde.asso-ensea.fr/)): A website I developed for my student union (BDE) at ENSEA using Next.js. It serves as the online hub for all association activities, showcasing events, news, and more.
-- [**Gilbert Martin Art Gallery**](https://github.com/yourusername/gilbert-martin-gallery): A personal project where I created an online gallery for the artist Gilbert Martin to showcase his works. This project marked one of my first professional web development experiences.
+- [**Sabotime**](https://sabotime.com)  
+Sabotime is my main web project. It’s an online multiplayer game inspired by the board game Time Bomb. I developed the game entirely, both frontend and backend, with graphic elements created in collaboration with a team and professional designers. This project includes 3D graphics, live chat, account creation, and all the features that make it a complete game. The game was a real success, remaining online for about a month and attracting around 500 unique users. The game is no longer live due to legal reasons.
+- [**Rando Audio**](https://rando-audio.fr/)  
+The Rando Audio project is the graduation project of Simon Nölp. It’s an interactive audio story where the listener can make choices and shape their own adventure.
+- [**Student Union Website**](https://bde.asso-ensea.fr/)  
+In 2024, I developed the website for my student union, the BDE. Serving as the association's online showcase, the site was built using the Next.js framework, providing a modern and efficient platform to represent our activities.
+- [**Tourist rentals Website**](https://lagycine-asnelles.fr)  
+At the age of 16, I created my second showcase website, which is still in use today. This site highlights and promotes vacation rentals in Normandy. One of its key features is a small administration panel, including password-protected login and a database, enabling the publication of short posts directly on the site. This project provided me with an introduction to system security.
 
 ### **Contact Me** 📧
 
 Feel free to reach out if you'd like to collaborate or have any questions!
 
-- Email: [benoit.baguelin@ensea.fr]
+- Email: [benoit.baguelin@ensea.fr](mailto:benoit.baguelin@ensea.fr)
 - LinkedIn: [/in/benoit-baguelin](https://www.linkedin.com/in/benoit-baguelin/)
 - CV : Mon CV en PDF
