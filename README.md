@@ -5,11 +5,9 @@ I’m currently a Master's student at [ENSEA](https://www.ensea.fr/), a French g
 ### **My Skills** 🚀
 
 ### **Langages de programmation :**
-- **Généraliste** : Python, Java, OCaml
-- **Back-end** : Node.js, PHP
-- **Front-end/Web** : HTML, CSS, JavaScript
-- **Hardware/Low-level** : C, VHDL, Assembly
-- **Autres** : Bash, Matlab
+| **General** | **Back-end** | **Front-end** | **Hardware/Low-level** | **Others** |
+| --- | --- | --- | --- | --- |
+| Python, Java, OCaml | Node.js, PHP | HTML, CSS, JavaScript | C, VHDL, Assembly | Bash, Matlab |
 
 ---
 
