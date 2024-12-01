@@ -9,6 +9,11 @@ I’m currently a Master's student at [ENSEA](https://www.ensea.fr/), a French g
 | --- | --- | --- | --- | --- |
 | Python, Java, OCaml | Node.js, PHP | HTML, CSS, JavaScript | C, VHDL, Assembly | Bash, Matlab |
 | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,ocaml&titles=true) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,php) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,vhdl,javascript) | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bash,matlab) |
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+</div>
 
 ---
 
