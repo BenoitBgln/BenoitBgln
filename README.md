@@ -1,6 +1,6 @@
 <h1 id="hi-there-i-m-beno-t-baguelin-">Hi there, I&#39;m Benoît Baguelin 👋</h1>
 <p>I am currently pursuing a Master&#39;s degree at <a href="https://ensea.fr/">ENSEA</a>, a French graduate school specializing in electrical engineering and computer science. My interests span the full spectrum of technology, from low-level hardware design to high-level software development, with a focus on software engineering, embedded systems, and cybersecurity.
-<br/><br/><br/>
+<br/><br/>
 </p>
 <h2 id="-my-skills-" align="center">🚀 My Skills 🚀</h2>
 <h3 id="-programming-languages-">Programming Languages:</h3>
@@ -38,7 +38,7 @@
       Vivado, OrCAD, PSpice
    </li>
 </ul>
-<br/><br/><br/>
+<br/><br/>
 <h2 id="-my-main-personal-web-projects-" align="center">💻 My main personal web projects 💻</h2>
 <h3 id="-sabotime-">Sabotime</h3>
 <p>Online multiplayer game | 2023 | <a href="https://sabotime.com/">https://sabotime.com/</a><br><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&amp;style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Socket.io-010101?&amp;style=for-the-badge&amp;logo=Socket.io&amp;logoColor=white" alt=""></p>
@@ -59,7 +59,7 @@
 <p>Tourist rentals Website | 2019 | <a href="https://laglycine-asnelles.fr/">https://laglycine-asnelles.fr/</a><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt=""> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt=""></p>
 <p><img src="./img/laglycine.png" alt="La Glycine"></p>
 <p>At the age of 16, I created my second showcase website, which is still in use today. This site highlights and promotes vacation rentals in Normandy. One of its key features is a small administration panel, including password-protected login and a database, enabling the publication of short posts directly on the site. This project provided me with an introduction to system security.
-   <br/><br/><br/>
+<br/><br/>
 </p>
 <h2 id="-contact-me-" align="center">📧 Contact Me 📧</h2>
 <p>Feel free to reach out if you&#39;d like to collaborate or have any questions!</p>
