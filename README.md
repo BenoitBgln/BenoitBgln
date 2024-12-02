@@ -1,7 +1,7 @@
 ## Hi there, I'm Benoît Baguelin 👋
 
 I am currently pursuing a Master's degree at [ENSEA](https://ensea.fr/), a French graduate school specializing in electrical engineering and computer science. My interests span the full spectrum of technology, from low-level hardware design to high-level software development, with a focus on software engineering, embedded systems, and cybersecurity.
-
+<br/><br/>
 ### **🚀 My Skills 🚀**
 
 #### **Programming Languages:**
@@ -42,7 +42,7 @@ I am currently pursuing a Master's degree at [ENSEA](https://ensea.fr/), a Frenc
 
 #### Electronic design and simulation softwares  
 - Vivado, OrCAD, PSpice
-
+<br/><br/>
 ### **💻 My main personal web projects 💻**
 
 #### **Sabotime**  
@@ -75,14 +75,14 @@ In 2024, I developed the website for my student union, the BDE. Serving as the a
 
 ---
 
-#### **La Glycine** 
+#### <center>**La Glycine** </center>
 Tourist rentals Website | 2019 | https://laglycine-asnelles.fr/  
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![La Glycine](./img/laglycine.png)
 
 At the age of 16, I created my second showcase website, which is still in use today. This site highlights and promotes vacation rentals in Normandy. One of its key features is a small administration panel, including password-protected login and a database, enabling the publication of short posts directly on the site. This project provided me with an introduction to system security.
-
+<br/><br/>
 ### **📧 Contact Me 📧**
 
 Feel free to reach out if you'd like to collaborate or have any questions!
