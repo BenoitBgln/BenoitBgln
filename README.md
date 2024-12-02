@@ -26,7 +26,7 @@
    <li>NoSQL<br><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&amp;style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt=""></li>
 </ul>
 <hr>
-<h3 id="-development-environments-"><strong>Development Environments:</h3>
+<h3 id="-development-environments-">Development Environments:</h3>
 <ul>
    <li>Embedded Platforms<br><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=Arduino&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&amp;logo=stmicroelectronics&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&amp;logo=Raspberry%20Pi&amp;logoColor=white" alt=""></li>
    <li>Linux Environment<br><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&amp;logo=debian&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=white" alt=""></li>
@@ -61,7 +61,7 @@
 <p>At the age of 16, I created my second showcase website, which is still in use today. This site highlights and promotes vacation rentals in Normandy. One of its key features is a small administration panel, including password-protected login and a database, enabling the publication of short posts directly on the site. This project provided me with an introduction to system security.
    <br/><br/><br/>
 </p>
-<h2 id="-contact-me-">📧 Contact Me 📧</h2>
+<h2 id="-contact-me-" align="center">📧 Contact Me 📧</h2>
 <p>Feel free to reach out if you&#39;d like to collaborate or have any questions!</p>
 <ul>
    <li>Email: <a href="mailto:benoit.baguelin@ensea.fr">benoit.baguelin@ensea.fr</a></li>
