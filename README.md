@@ -69,11 +69,12 @@
    <li>Curriculum vitæ : <a href="./CV%20STAGE%202025%20FR.pdf">CV.pdf</a></li>
 </ul>
 <style>
-   .skill {
+   img[alt=""] {
       margin-top: 5px;
    }
    h3,
    h3 + p{
+      width: 100%;
       text-align: center;
    }
 </style>
